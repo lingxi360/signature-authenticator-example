@@ -1,0 +1,6 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "rry/signature-authenticator": "^0.0.1"
+    }
+}
